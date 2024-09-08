@@ -219,3 +219,5 @@
 07ReflexSight_3_GunShotgun_1_Texture::-%(|::5
 07ReflexSight_3_GunShotgun_1_Color::-%(|::5
 07ReflexSight_3_GunShotgun_1_Size::-%(|::4
+07UserSettings_0A50_1000::-%(|::3
+07UserSettings_0A50_0000::-%(|::9
