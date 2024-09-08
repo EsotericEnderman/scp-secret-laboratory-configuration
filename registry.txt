@@ -230,3 +230,4 @@
 00UserSettings_89E4_1000::-%(|::false
 13VcMicName::-%(|::CABLE Output (VB-Audio Virtual Cable)
 00UserSettings_5E67_3000::-%(|::true
+00UserSettings_B226_0000::-%(|::false
