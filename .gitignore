@@ -1,12 +1,12 @@
 *
 
-!.gitignore
+!README.md
 
-!registry.txt
-!keybinding.txt
-!favorites.txt
+!.gitignore
 
 !.vscode
 !.vscode/*
 
-!README.md
+!registry.txt
+!keybinding.txt
+!favorites.txt
