@@ -5,3 +5,6 @@
 !registry.txt
 !keybinding.txt
 !favorites.txt
+
+!.vscode
+!.vscode/*
