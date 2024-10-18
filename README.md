@@ -1,3 +1,3 @@
-# SCP Secret Laboratory Configuration
+# SCP: Secret Laboratory Configuration
 
 > My SCP:SL configuration.
