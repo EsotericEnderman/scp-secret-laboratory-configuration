@@ -60,7 +60,7 @@
 07ReflexSight_3_GunCOM18_1_Texture::-%(|::0
 07ReflexSight_3_GunCOM18_1_Color::-%(|::0
 07ReflexSight_3_GunCOM18_1_Size::-%(|::0
-07Preset_39::-%(|::3
+07Preset_39::-%(|::2
 0839_AttachmentsSetupPreference_1::-%(|::300
 0839_AttachmentsSetupPreference_0::-%(|::1106
 07ReflexSight_0_GunRevolver_9_Texture::-%(|::0
