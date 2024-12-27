@@ -34,7 +34,7 @@
 07UserSettings_0A50_3000::-%(|::0
 00UserSettings_0A50_4000::-%(|::true
 07UserSettings_8394_1000::-%(|::0
-07UserSettings_E8BE_0000::-%(|::0
+07UserSettings_E8BE_0000::-%(|::3
 07UserSettings_E8BE_5000::-%(|::0
 07UserSettings_E8BE_4000::-%(|::0
 07Preset_24::-%(|::2
@@ -225,7 +225,7 @@
 00UserSettings_8394_2000::-%(|::true
 00UserSettings_8394_0000::-%(|::false
 07UserSettings_E8BE_1000::-%(|::0
-07UserSettings_0A50_5000::-%(|::1
+07UserSettings_0A50_5000::-%(|::2
 00UserSettings_89E4_2000::-%(|::false
 00UserSettings_89E4_1000::-%(|::false
 13VcMicName::-%(|::CABLE Output (VB-Audio Virtual Cable)
