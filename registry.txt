@@ -222,7 +222,7 @@
 07UserSettings_0A50_1000::-%(|::3
 07UserSettings_0A50_0000::-%(|::7
 00UserSettings_82B2_2000::-%(|::false
-00UserSettings_8394_2000::-%(|::true
+00UserSettings_8394_2000::-%(|::false
 00UserSettings_8394_0000::-%(|::false
 07UserSettings_E8BE_1000::-%(|::0
 07UserSettings_0A50_5000::-%(|::1
