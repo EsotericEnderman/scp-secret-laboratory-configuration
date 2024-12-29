@@ -233,3 +233,5 @@
 00UserSettings_B226_0000::-%(|::false
 00UserSettings_FF39_0000::-%(|::true
 00UserSettings_89E4_4000::-%(|::false
+00UserSettings_E8BE_7000::-%(|::false
+00UserSettings_E8BE_6000::-%(|::false
