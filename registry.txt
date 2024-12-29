@@ -227,7 +227,7 @@
 07UserSettings_E8BE_1000::-%(|::0
 07UserSettings_0A50_5000::-%(|::1
 00UserSettings_89E4_2000::-%(|::false
-00UserSettings_89E4_1000::-%(|::true
+00UserSettings_89E4_1000::-%(|::false
 13VcMicName::-%(|::CABLE Output (VB-Audio Virtual Cable)
 00UserSettings_5E67_3000::-%(|::true
 00UserSettings_B226_0000::-%(|::false
