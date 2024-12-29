@@ -31,7 +31,7 @@
 07ReflexSight_2_GunE11SR_2_Size::-%(|::4
 07UserSettings_0A50_2000::-%(|::1
 13UserSettings_5E67_0000::-%(|::en-updated
-07UserSettings_0A50_3000::-%(|::0
+07UserSettings_0A50_3000::-%(|::1
 00UserSettings_0A50_4000::-%(|::true
 07UserSettings_8394_1000::-%(|::0
 07UserSettings_E8BE_0000::-%(|::0
@@ -220,7 +220,7 @@
 07ReflexSight_3_GunShotgun_1_Color::-%(|::5
 07ReflexSight_3_GunShotgun_1_Size::-%(|::4
 07UserSettings_0A50_1000::-%(|::3
-07UserSettings_0A50_0000::-%(|::7
+07UserSettings_0A50_0000::-%(|::1
 00UserSettings_82B2_2000::-%(|::false
 00UserSettings_8394_2000::-%(|::true
 00UserSettings_8394_0000::-%(|::false
